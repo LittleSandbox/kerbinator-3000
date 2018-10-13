@@ -1,3 +1,27 @@
+#hamburgerMenu {
+    font-size: 3em;
+
+    padding: 0;
+    margin: 0 0 0 1.5%;
+
+    z-index: 10;
+}
+
+#side-menu {
+    background-color: red;
+
+    margin: -9% 0 0 0;
+    padding: 0 0 0 0;
+
+    height: 101%;
+    width: 0%;
+
+    z-index: 0;
+
+}
+
+/* All the random GoogleMaps stuff */
+
 /* Always set the map height explicitly to define the size of the div
 * element that contains the map. */
 #map {
